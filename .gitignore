@@ -1,0 +1,12 @@
+Debug/
+obj/
+addons.make
+icon.*
+icon.
+*.sln
+*.VC.*
+*.vcxproj*
+.vs/
+
+bin/*
+!bin/data/
